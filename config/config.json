@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "BurningPenguin25b",
+    "database": "dbase_messenger",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "BurningPenguin25b",
+    "database": "dbase_messenger",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "BurningPenguin25b",
+    "database": "dbase_messenger",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
